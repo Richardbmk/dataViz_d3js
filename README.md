@@ -17,7 +17,7 @@ This is some data vizualization simple project from the Course [Data Visualizati
 2. [x] [Let's make a face](https://richardbmk.github.io/dataViz_d3js/01_smileyFace_homework)
 3. [x] [Static Barchart](https://richardbmk.github.io/dataViz_d3js/02_barchart_homework)
 4. [x] [Line Chart](https://richardbmk.github.io/dataViz_d3js/03_linearchart_homework)
-5. [x] [Scatter Plot](https://richardbmk.github.io/dataViz_d3js/03_linearchart_homework)
-6. [x] [Area Chart](https://richardbmk.github.io/dataViz_d3js/03_linearchart_homework)
+5. [x] [Scatter Plot](https://richardbmk.github.io/dataViz_d3js/04_scatterplot_homework)
+6. [x] [Area Chart](https://richardbmk.github.io/dataViz_d3js/05_areachart_homework)
 
 
