@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+
+text {
+    font-size: 1.5em;
+    font-family: sans-serif;
+    text-anchor: middle;
+}
+
+rect {
+    fill: #e5ddbc;
+}
+
+body {
+margin: 0;
+    padding: 0;
+    display: flex;
+    background: linear-gradient(135deg, #7c1599 0%,#921099 48%,#7e4ae8 100%);
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
