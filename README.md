@@ -20,5 +20,6 @@ This is some data vizualization simple project from the Course [Data Visualizati
 5. [x] [Scatter Plot](https://richardbmk.github.io/dataViz_d3js/04_scatterplot_homework)
 6. [x] [Area Chart](https://richardbmk.github.io/dataViz_d3js/05_areachart_homework)
 7. [x] [General Update Patter](https://richardbmk.github.io/dataViz_d3js/06_GeneralUpdatePattern)
+8. [x] [Word Map](https://richardbmk.github.io/dataViz_d3js/07_WordMap)
 
 
